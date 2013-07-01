@@ -1,6 +1,6 @@
 # Just Presets
 
-Below are sane superflat presets for Minecraft designed to be usable as survival games.
+Below are a superflat presets for Minecraft designed to be more usable for survival games than the stock presets found in the game.
 
 ### Standard world
 
@@ -36,4 +36,10 @@ Enter the sprawling megalopolis: help build a modern city by day while defending
 
 Meow? The sooner you can find a lake and catch some fish, the easier your life will be. There are plenty of Jungle temples to raid and underground mineshaft labyrinths to explore while you build out yoru jungle oasis.
 
-    2;7,80x1,12,5x3,2;21;stronghold,biome_1(distance=9),decoration,dungeon,mineshaft(chance=0.4), lake
+    2;7,80x1,12,5x3,2;21;stronghold,biome_1(distance=9),decoration,dungeon,mineshaft(chance=0.4),lake
+
+### Toil and trouble
+
+Witches and slimes will be a blessing and a curse on this preset that brings ores a little closer.
+
+    2;7,80x1,12,5x3,2;6;stronghold,biome_1(distance=9),decoration,dungeon,village,lake,lava_lake
