@@ -43,3 +43,9 @@ Meow? The sooner you can find a lake and catch some fish, the easier your life w
 Witches and slimes will be a blessing and a curse on this preset that brings ores a little closer.
 
     2;7,80x1,12,5x3,2;6;stronghold,biome_1(distance=9),decoration,dungeon,village,lake,lava_lake
+    
+### Pharaohs of Minecraft
+
+Explore this desert realm filled with the pyramids of old.
+
+    2;7,54x1,5x3,2x24,3x12;2;stronghold,biome_1(distance=9),decoration,dungeon,mineshaft(chance=0.03),village(distance=64 size=8),lake
