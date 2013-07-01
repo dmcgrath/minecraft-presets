@@ -13,3 +13,15 @@ Standard world gives you a lot of the features you find in a regular minecraft w
 Water Table is much like Standard World, except for an 8 layer water level between the sand dirt layers. Be careful not to flood our your mining expeditions!
 
     2;7,80x1,12,8x9,5x3,2;3;stronghold,biome_1,village,decoration,dungeon,mineshaft,stronghold,village
+
+### Subterranean Lake
+
+Be careful when digging! The water table has receded, leaving a gap between the dirt an water. This makes a convenient 24 hour boating area once you build lighting and docks.
+
+    2;7,80x1,12,4x9,4x0,5x3,2;3;stronghold,biome_1,village,decoration,dungeon,mineshaft,stronghold,village
+
+### Subterranean Glacier
+
+There is plenty of water, although you'll have to unfreeze it first. This is what happened to the Subterranean Lake during the next ice age. Morning dew has seeped underground and frozen on the ceiling. The seed `Icy` is a good one for this preset, with a lava lake spawning close to help you out.
+
+    2;7,50x1,12,3x79,4x0,79,5x3,2;12;stronghold,biome_1,village,decoration,dungeon,mineshaft,stronghold,village,lava_lake
