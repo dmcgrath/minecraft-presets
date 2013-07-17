@@ -24,7 +24,7 @@ Be careful when digging! The water table has receded, leaving a gap between the 
 
 There is plenty of water, although you'll have to unfreeze it first. This is what happened to the Subterranean Lake during the next ice age. Morning dew has seeped underground and frozen on the ceiling. The seed `Icy` is a good one for this preset, with a lava lake spawning close to help you out.
 
-    2;7,50x1,12,3x79,4x0,79,5x3,1;12;stronghold,biome_1,village,decoration,dungeon,mineshaft,stronghold,village,lava_lake
+    2;7,55x1,12,3x79,4x0,79,5x3,2;1;stronghold,biome_1,village,decoration,dungeon,mineshaft,stronghold,village,lava_lake
 
 ### Megalopolis
 
